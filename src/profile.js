@@ -101,7 +101,7 @@ const Profile = () => {
             marginBottom: 15,
             backgroundColor: "#FEF0ED",
             elevation: 0,
-            borderRadius: 8,
+            borderRadius: 7,
             width: "80%",
           }}
         >
